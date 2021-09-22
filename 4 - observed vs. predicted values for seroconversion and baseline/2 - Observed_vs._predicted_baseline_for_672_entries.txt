@@ -1,0 +1,673 @@
+Cohort	Group	Observed_BL	Predicted_BL
+BL1-2, 4	Children	24	27.95
+BL1-2, 4	Children	26	27.95
+BL1-2, 4	Children	27	24.99
+BL1-2, 4	Children	29	25.93
+BL1-2, 4	Children	25	24.04
+BL1-2, 4	Children	27	28.19
+BL1-2, 4	Children	27	24.4
+BL1-2, 4	Children	30	28.79
+BL1-2, 4	Children	34	29.73
+BL1-2, 4	Children	25	24.98
+BL1-2, 4	Children	23	22.26
+BL1-2, 4	Children	28	22.37
+BL1-2, 4	Children	25	24.98
+BL1-2, 4	Children	21	26.77
+BL1-2, 4	Children	25	26.42
+BL1-2, 4	Children	32	28.19
+BL1-2, 4	Children	27	27.36
+BL1-2, 4	Children	26	25.23
+BL1-2, 4	Children	22	22.96
+BL1-2, 4	Children	28	26.42
+BL1-2, 4	Children	21	25.34
+BL1-2, 4	Children	25	27.36
+BL1-2, 4	Children	24	24.39
+BL1-2, 4	Children	29	28.19
+BL1-2, 4	Children	30	25.82
+BL1-2, 4	Children	30	26.42
+BL1-2, 4	Children	23	24.04
+BL1-2, 4	Children	26	27.95
+BL1-2, 4	Children	24	22.96
+BL1-2, 4	Children	19	24.99
+BL1-2, 4	Children	29	26.17
+BL1-2, 4	Children	30	28.3
+BL1-2, 4	Children	28	23.56
+BL1-2, 4	Children	32	25.58
+BL1-2, 4	Children	25	23.21
+BL1-2, 4	Children	26	30.32
+BL1-2, 4	Children	23	24.64
+BL1-2, 4	Children	29	27.6
+BL1-2, 4	Children	29	30.91
+BL1-2, 4	Children	22	24.64
+BL1-2, 4	Children	25	28.54
+BL1-2, 4	Children	27	23.21
+BL1-2, 4	Children	25	26.42
+BL1-2, 4	Children	21	21.08
+BL1-2, 4	Children	28	24.99
+BL1-2, 4	Children	26	23.21
+BL1-2, 4	Children	26	24.98
+BL1-2, 4	Children	28	27.36
+BL1-2, 4	Children	20	27.11
+BL1-2, 4	Children	24.29	22.62
+BL1-2, 4	Children	23.29	22.86
+BL1-2, 4	Children	14.29	22.62
+BL1-2, 4	Children	26.29	24.04
+BL1-2, 4	Children	26.29	22.62
+BL1-2, 4	Children	23.29	23.21
+BL1-2, 4	Children	22.29	24.64
+BL1-2, 4	Children	23.29	22.86
+BL1-2, 4	Children	20.29	20.84
+BL1-2, 4	Children	18.29	21.67
+BL1-2, 4	Children	14.29	20.48
+BL1-2, 4	Children	28.29	27.01
+BL1-2, 4	Children	25.29	21.67
+BL1-2, 4	Children	25.29	25.23
+BL1-2, 4	Children	26.29	24.64
+BL1-2, 4	Children	22.29	22.86
+BL1-2, 4	Children	27.29	24.04
+BL1-2, 4	Children	22.29	23.45
+BL1-2, 4	Children	22.29	23.21
+BL1-2, 4	Children	22.29	20.48
+BL1-2, 4	Children	25.29	22.26
+BL1-2, 4	Children	23.29	26.42
+BL1-2, 4	Children	25.29	22.26
+BL1-2, 4	Children	17.29	21.43
+BL1-2, 4	Children	24.29	22.02
+BL1-2, 4	Children	23.29	21.43
+BL1-2, 4	Children	24.29	22.02
+BL1-2, 4	Children	24.29	21.43
+BL1-2, 4	Children	27.29	25.23
+BL1-2, 4	Children	25.29	24.64
+BL1-2, 4	Children	20.29	20.84
+BL1-2, 4	Children	22.29	24.64
+BL1-2, 4	Children	23.29	23.8
+BL1-2, 4	Children	23.29	22.86
+BL1-2, 4	Children	24.29	25.23
+BL1-2, 4	Children	23.29	24.64
+BL1-2, 4	Children	25.29	25.58
+BL1-2, 4	Children	20.29	20.84
+BL1-2, 4	Children	32.29	29.73
+BL1-2, 4	Children	27.29	27.01
+BL1-2, 4	Children	23.29	24.64
+BL1-2, 4	Children	17.29	21.43
+BL1-2, 4	Children	15.29	19.06
+BL1-2, 4	Children	18.29	22.26
+BL1-2, 4	Children	20.29	24.04
+BL1-2, 4	Children	30.29	26.42
+BL1-2, 4	Children	26.29	24.64
+BL1-2, 4	Children	19.29	21.08
+BL1-2, 4	Children	22.29	20.84
+BL1-2, 4	Children	25.29	23.8
+BL1-2, 4	Children	21.29	26.42
+BL1-2, 4	Children	16.29	21.43
+BL1-2, 4	Children	27.29	25.82
+BL1-2, 4	Children	27.29	24.64
+BL1-2, 4	Children	21.29	21.43
+BL1-2, 4	Children	24.29	24.04
+BL1-2, 4	Children	24.29	24.64
+BL1-2, 4	Children	20.29	22.86
+BL1-2, 4	Children	20.29	20.24
+BL1-2, 4	Children	26.29	23.21
+BL1-2, 4	Children	20.29	20.24
+BL1-2, 4	Adult1	35	28.75
+BL1-2, 4	Adult1	21	20.38
+BL1-2, 4	Adult1	29	30.81
+BL1-2, 4	Adult1	29	27.29
+BL1-2, 4	Adult1	27	27.08
+BL1-2, 4	Adult1	25	26.07
+BL1-2, 4	Adult1	30	27.92
+BL1-2, 4	Adult1	30	27.03
+BL1-2, 4	Adult1	28	25.16
+BL1-2, 4	Adult1	29	28.22
+BL1-2, 4	Adult1	30	31.69
+BL1-2, 4	Adult1	31	29.58
+BL1-2, 4	Adult1	25	25.24
+BL1-2, 4	Adult1	26	26.63
+BL1-2, 4	Adult1	24	25.75
+BL1-2, 4	Adult1	33	31.2
+BL1-2, 4	Adult1	24	23.93
+BL1-2, 4	Adult1	26	24.08
+BL1-2, 4	Adult1	29	25.78
+BL1-2, 4	Adult1	25	23.88
+BL1-2, 4	Adult1	32	28.84
+BL1-2, 4	Adult1	27	23.99
+BL1-2, 4	Adult1	32	29.07
+BL1-2, 4	Adult1	23	22.21
+BL1-2, 4	Adult1	26	25.2
+BL1-2, 4	Adult1	18	16.94
+BL1-2, 4	Adult1	19	22.97
+BL1-2, 4	Adult1	26	22.62
+BL1-2, 4	Adult1	29	25.25
+BL1-2, 4	Adult1	20	22.68
+BL1-2, 4	Adult1	29	27.07
+BL1-2, 4	Adult1	25	25.2
+BL1-2, 4	Adult1	27	21.7
+BL1-2, 4	Adult1	28	25.31
+BL1-2, 4	Adult1	27	23.67
+BL1-2, 4	Adult1	25	28.08
+BL1-2, 4	Adult1	27	25.93
+BL1-2, 4	Adult1	28	24.58
+BL1-2, 4	Adult1	32	29.28
+BL1-2, 4	Adult1	24	24.03
+BL1-2, 4	Adult1	24	17.23
+BL1-2, 4	Adult1	26	26.67
+BL1-2, 4	Adult1	29	25.54
+BL1-2, 4	Adult1	25	23.34
+BL1-2, 4	Adult1	28	27.29
+BL1-2, 4	Adult1	13	20.48
+BL1-2, 4	Adult1	28	25.83
+BL1-2, 4	Adult1	29	26.45
+BL1-2, 4	Adult1	28	18.3
+BL1-2, 4	Adult1	21	17.11
+BL1-2, 4	Adult1	23	22.78
+BL1-2, 4	Adult1	22	22.61
+BL1-2, 4	Adult1	23	22.46
+BL1-2, 4	Adult1	23	19.08
+BL1-2, 4	Adult1	24	25.62
+BL1-2, 4	Adult1	32	27.7
+BL1-2, 4	Adult1	28	23.14
+BL1-2, 4	Adult1	32	28.43
+BL1-2, 4	Adult1	27	25.93
+BL1-2, 4	Adult1	29	25.5
+BL1-2, 4	Adult1	28	23.23
+BL1-2, 4	Adult1	25	23.57
+BL1-2, 4	Adult1	28	27.7
+BL1-2, 4	Adult1	28	25.66
+BL1-2, 4	Adult1	25	19.02
+BL1-2, 4	Adult1	35	28.54
+BL1-2, 4	Adult1	25	26.25
+BL1-2, 4	Adult1	29	23.92
+BL1-2, 4	Adult1	27	28.28
+BL1-2, 4	Adult1	27	28.91
+BL1-2, 4	Adult1	27	23.62
+BL1-2, 4	Adult1	31	27.2
+BL1-2, 4	Adult1	34	29.52
+BL1-2, 4	Adult1	32	27.71
+BL1-2, 4	Adult1	12	18.51
+BL1-2, 4	Adult1	29	25.11
+BL1-2, 4	Adult1	29	26.57
+BL1-2, 4	Adult1	26	25.86
+BL1-2, 4	Adult1	24	25.2
+BL1-2, 4	Adult1	30	27.4
+BL1-2, 4	Adult1	23	25.53
+BL1-2, 4	Adult1	20	22.26
+BL1-2, 4	Adult1	31	28.78
+BL1-2, 4	Adult1	22	20.95
+BL1-2, 4	Adult1	23	23.99
+BL1-2, 4	Adult1	27	25.06
+BL1-2, 4	Adult1	19	21.14
+BL1-2, 4	Adult1	29	24.84
+BL1-2, 4	Adult1	23	24.11
+BL1-2, 4	Adult1	28	25.86
+BL1-2, 4	Adult1	22	23.02
+BL1-2, 4	Adult1	16	19.86
+BL1-2, 4	Adult1	23	22.05
+BL1-2, 4	Adult1	13	20.2
+BL1-2, 4	Adult1	27	25.21
+BL1-2, 4	Adult1	23	22.13
+BL1-2, 4	Adult1	15	18.68
+BL1-2, 4	Adult1	20	19.67
+BL1-2, 4	Adult1	22	21.73
+BL1-2, 4	Adult1	25	24.96
+BL1-2, 4	Adult1	25	25.45
+BL1-2, 4	Adult1	26	22.75
+BL1-2, 4	Adult1	21	22.05
+BL1-2, 4	Adult1	20	24.34
+BL1-2, 4	Adult1	24	23.59
+BL1-2, 4	Adult1	18	19.51
+BL1-2, 4	Adult1	24	24.49
+BL1-2, 4	Adult1	17	19.01
+BL1-2, 4	Adult1	23	23.67
+BL1-2, 4	Adult1	15	23.34
+BL1-2, 4	Adult1	19	22.25
+BL1-2, 4	Adult1	25	24.27
+BL1-2, 4	Adult1	25	23.74
+BL1-2, 4	Adult1	20	23.64
+BL1-2, 4	Adult1	24	23.48
+BL1-2, 4	Adult1	30	26.69
+BL1-2, 4	Adult1	25	25.65
+BL1-2, 4	Adult1	19	21.75
+BL1-2, 4	Adult1	24	24.7
+BL1-2, 4	Adult1	24	24.58
+BL1-2, 4	Adult1	22	24.27
+BL1-2, 4	Adult1	18	21.24
+BL1-2, 4	Adult1	19	21.55
+BL1-2, 4	Adult1	22	22.51
+BL1-2, 4	Adult1	24	26.35
+BL1-2, 4	Adult1	9	16.69
+BL1-2, 4	Adult1	28	24.89
+BL1-2, 4	Adult1	22	25.65
+BL1-2, 4	Adult1	15	18.94
+BL1-2, 4	Adult1	18	23.75
+BL1-2, 4	Adult1	22	21.79
+BL1-2, 4	Adult1	17	19.03
+BL1-2, 4	Adult1	17	19.96
+BL1-2, 4	Adult1	28	26.14
+BL1-2, 4	Adult1	20	21.01
+BL1-2, 4	Adult1	26	25.53
+BL1-2, 4	Adult1	24	24.99
+BL1-2, 4	Adult1	22	22.34
+BL1-2, 4	Adult1	21	23.55
+BL1-2, 4	Adult1	21	24.99
+BL1-2, 4	Adult1	31	28.84
+BL1-2, 4	Adult1	19	21
+BL1-2, 4	Adult1	26	24.12
+BL1-2, 4	Adult1	22	26.91
+BL1-2, 4	Adult1	22	26.91
+BL1-2, 4	Adult1	24	21.75
+BL1-2, 4	Adult1	26	25.42
+BL1-2, 4	Adult1	19	23.99
+BL1-2, 4	Adult1	29	28.33
+BL1-2, 4	Adult1	15.29	17.16
+BL1-2, 4	Adult1	26.29	23.49
+BL1-2, 4	Adult1	25.29	23.13
+BL1-2, 4	Adult1	20.29	20.47
+BL1-2, 4	Adult1	14.29	20.91
+BL1-2, 4	Adult1	12.29	13.4
+BL1-2, 4	Adult1	18.29	15.97
+BL1-2, 4	Adult1	11.29	16.96
+BL1-2, 4	Adult1	21.29	22.32
+BL1-2, 4	Adult1	19.29	18.09
+BL1-2, 4	Adult1	15.29	13.18
+BL1-2, 4	Adult1	19.29	18.13
+BL1-2, 4	Adult1	23.29	19.17
+BL1-2, 4	Adult1	25.29	19.5
+BL1-2, 4	Adult1	18.29	19.64
+BL1-2, 4	Adult1	23.29	23.99
+BL1-2, 4	Adult1	14.29	17.3
+BL1-2, 4	Adult1	22.29	20.22
+BL1-2, 4	Adult1	21.29	22.19
+BL1-2, 4	Adult1	24.29	18.09
+BL1-2, 4	Adult1	19.29	17.56
+BL1-2, 4	Adult1	13.29	18.43
+BL1-2, 4	Adult1	22.29	21.18
+BL1-2, 4	Adult1	24.29	18.15
+BL1-2, 4	Adult1	16.29	17.21
+BL1-2, 4	Adult1	21.29	23.07
+BL1-2, 4	Adult1	13.29	13.52
+BL1-2, 4	Adult1	19.29	18.79
+BL1-2, 4	Adult1	17.29	21.85
+BL1-2, 4	Adult1	16.29	19
+BL1-2, 4	Adult1	27.29	22
+BL1-2, 4	Adult1	21.29	19.3
+BL1-2, 4	Adult1	23.29	19.63
+BL1-2, 4	Adult1	16.29	14.69
+BL1-2, 4	Adult1	21.29	18.78
+BL1-2, 4	Adult1	30.29	24.38
+BL1-2, 4	Adult1	16.29	23.14
+BL1-2, 4	Adult1	18.29	17.55
+BL1-2, 4	Adult1	15.29	20.01
+BL1-2, 4	Adult1	12.29	16.69
+BL1-2, 4	Adult1	13.29	9.03
+BL1-2, 4	Adult1	21.29	17.22
+BL1-2, 4	Adult1	15.29	17.47
+BL1-2, 4	Adult1	21.29	22.2
+BL1-2, 4	Adult1	14.29	17.02
+BL1-2, 4	Adult1	15.29	15.27
+BL1-2, 4	Adult1	12.29	11.85
+BL1-2, 4	Adult1	20.29	21.85
+BL1-2, 4	Adult1	23.29	18.95
+BL1-2, 4	Adult1	14.29	14.14
+BL1-2, 4	Adult1	20.29	18.71
+BL1-2, 4	Adult1	20.29	16.01
+BL1-2, 4	Adult1	20.29	18.43
+BL1-2, 4	Adult1	13.29	14.97
+BL1-2, 4	Adult1	17.29	15.97
+BL1-2, 4	Adult1	11.29	16.3
+BL1-2, 4	Adult1	16.29	16.88
+BL1-2, 4	Adult1	10.29	14.61
+BL1-2, 4	Adult1	19.29	19.34
+BL1-2, 4	Adult1	13.29	12.94
+BL1-2, 4	Adult1	20.29	25.89
+BL1-2, 4	Adult1	13.29	15.21
+BL1-2, 4	Adult1	23.29	21.63
+BL1-2, 4	Adult1	20.29	16.07
+BL1-2, 4	Adult1	28.29	25.06
+BL1-2, 4	Adult1	22.29	18.98
+BL1-2, 4	Adult1	16.29	18.26
+BL1-2, 4	Adult1	12.29	17.39
+BL1-2, 4	Adult1	16.29	14.52
+BL1-2, 4	Adult1	18.29	14.3
+BL1-2, 4	Adult1	24.29	18.92
+BL1-2, 4	Adult1	19.29	15.29
+BL1-2, 4	Adult1	18.29	13.74
+BL1-2, 4	Adult1	21.29	19.67
+BL1-2, 4	Adult1	19.29	16.53
+BL1-2, 4	Adult1	19.29	18.1
+BL1-2, 4	Adult1	21.29	15.34
+BL1-2, 4	Adult1	25.29	18.22
+BL1-2, 4	Adult1	18.29	21.79
+BL1-2, 4	Adult1	15.29	13.23
+BL1-2, 4	Adult1	19.29	20.43
+BL1-2, 4	Adult1	13.29	15.07
+BL1-2, 4	Adult1	14.29	13.93
+BL1-2, 4	Adult1	30.29	22.79
+BL1-2, 4	Adult1	19.29	21.37
+BL1-2, 4	Adult1	23.29	17.26
+BL1-2, 4	Adult1	12.29	16.14
+BL1-2, 4	Adult1	24.29	20.84
+BL1-2, 4	Adult1	25.29	20.12
+BL1-2, 4	Adult1	19.29	18.57
+BL1-2, 4	Adult1	16.29	19.6
+BL1-2, 4	Adult1	23.29	22.19
+BL1-2, 4	Adult1	18.29	14.56
+BL1-2, 4	Adult1	24.29	18.93
+BL1-2, 4	Adult1	26.29	19.5
+BL1-2, 4	Adult1	25.29	20.38
+BL1-2, 4	Adult1	21.29	21.12
+BL1-2, 4	Adult1	19.29	19.7
+BL1-2, 4	Adult1	14.29	17.11
+BL1-2, 4	Adult1	21.29	16.7
+BL1-2, 4	Adult1	12.29	15.24
+BL1-2, 4	Adult1	14.29	17.22
+BL1-2, 4	Adult1	15.29	15.8
+BL1-2, 4	Adult1	16.29	15.56
+BL1-2, 4	Adult1	25.29	25.99
+BL1-2, 4	Adult1	27.29	23.45
+BL1-2, 4	Adult1	12.29	20.95
+BL1-2, 4	Adult1	17.29	17.48
+BL1-2, 4	Adult1	24.29	22.58
+BL1-2, 4	Adult1	20.29	22.46
+BL1-2, 4	Adult1	14.29	17
+BL1-2, 4	Adult1	22.29	20.17
+BL1-2, 4	Adult1	9.29	18.51
+BL1-2, 4	Adult1	18.29	19.93
+BL1-2, 4	Adult1	11.29	18.04
+BL1-2, 4	Adult1	22.29	17.93
+BL1-2, 4	Adult1	11.29	19.23
+BL1-2, 4	Adult1	18.29	22.91
+BL1-2, 4	Adult1	21.29	23.45
+BL1-2, 4	Adult1	20.29	25.02
+BL1-2, 4	Adult1	18.29	25.41
+BL1-2, 4	Adult1	22.29	24.16
+BL1-2, 4	Adult1	21.29	25.74
+BL1-2, 4	Adult1	10.29	19.63
+BL1-2, 4	Adult1	24.29	26.03
+BL1-2, 4	Adult1	14.29	17.71
+BL1-2, 4	Adult1	16.29	14.92
+BL1-2, 4	Adult1	21.29	18.73
+BL1-2, 4	Adult1	17.29	17.99
+BL1-2, 4	Adult1	26.29	25.86
+BL1-2, 4	Adult1	24.29	24.11
+BL1-2, 4	Adult1	20.29	21.7
+BL1-2, 4	Adult1	16.29	20.46
+BL1-2, 4	Adult1	18.29	20.76
+BL1-2, 4	Adult1	16.29	18.31
+BL1-2, 4	Adult1	21.29	20.5
+BL1-2, 4	Adult1	17.29	22.46
+BL1-2, 4	Adult1	16.29	19.77
+BL1-2, 4	Adult1	15.29	21.45
+BL1-2, 4	Adult1	16.29	16.5
+BL1-2, 4	Adult1	19.29	24.48
+BL1-2, 4	Adult1	19.29	25
+BL1-2, 4	Adult1	12.29	13.46
+BL1-2, 4	Adult1	22.29	25.78
+BL1-2, 4	Adult1	17.29	23.19
+BL1-2, 4	Adult1	17.29	22.55
+BL1-2, 4	Adult1	19.29	26.24
+BL1-2, 4	Adult1	19.29	25.45
+BL1-2, 4	Adult1	18.29	22.33
+BL1-2, 4	Adult1	17.29	17.48
+BL1-2, 4	Adult1	15.29	18
+BL1-2, 4	Adult1	24.29	23.25
+BL1-2, 4	Adult1	19.29	16.53
+BL1-2, 4	Adult1	21.29	20.57
+BL1-2, 4	Adult1	21.29	25.37
+BL1-2, 4	Adult1	19.29	19.03
+BL1-2, 4	Adult1	22.29	18.2
+BL1-2, 4	Adult1	18.29	18.35
+BL1-2, 4	Adult1	21.29	17.92
+BL1-2, 4	Adult1	23.29	22.37
+BL1-2, 4	Adult2	23	19.6
+BL1-2, 4	Adult2	21	22
+BL1-2, 4	Adult2	25	22.61
+BL1-2, 4	Adult2	22	19.44
+BL1-2, 4	Adult2	20	21.96
+BL1-2, 4	Adult2	23	22.76
+BL1-2, 4	Adult2	26	23.17
+BL1-2, 4	Adult2	20	23.22
+BL1-2, 4	Adult2	24	22.76
+BL1-2, 4	Adult2	20	17.27
+BL1-2, 4	Adult2	27	23.26
+BL1-2, 4	Adult2	11	15.24
+BL1-2, 4	Adult2	11	16.74
+BL1-2, 4	Adult2	17	18.87
+BL1-2, 4	Adult2	17	16.51
+BL1-2, 4	Adult2	16	17.99
+BL1-2, 4	Adult2	17	19.19
+BL1-2, 4	Adult2	22	23.19
+BL1-2, 4	Adult2	17	17.91
+BL1-2, 4	Adult2	9	17.16
+BL1-2, 4	Adult2	16	19.42
+BL1-2, 4	Adult2	11	16.57
+BL1-2, 4	Adult2	17	17.95
+BL1-2, 4	Adult2	17	19.25
+BL1-2, 4	Adult2	13	17.14
+BL1-2, 4	Adult2	15	16.66
+BL1-2, 4	Adult2	13	13.53
+BL1-2, 4	Adult2	25	20.73
+BL1-2, 4	Adult2	16	17.16
+BL1-2, 4	Adult2	14.29	16.84
+BL1-2, 4	Adult2	15.29	13.07
+BL1-2, 4	Adult2	17.29	14.45
+BL1-2, 4	Adult2	18.29	17.98
+BL1-2, 4	Adult2	23.29	24.47
+BL1-2, 4	Adult2	15.29	16.43
+BL1-2, 4	Adult2	19.29	19.35
+BL1-2, 4	Adult2	16.29	16.07
+BL1-2, 4	Adult2	11.29	14.51
+BL1-2, 4	Adult2	13.29	15.49
+BL1-2, 4	Adult2	10.29	12.88
+BL1-2, 4	Adult2	14.29	15.07
+BL1-2, 4	Adult2	14.29	14.51
+BL1-2, 4	Adult2	16.29	13.61
+BL1-2, 4	Adult2	17.29	14.82
+BL1-2, 4	Adult2	15.29	15.32
+BL1-2, 4	Adult2	17.29	18.27
+BL1-2, 4	Adult2	12.29	15.63
+BL1-2, 4	Adult2	14.29	17.08
+BL1-2, 4	Adult2	17.29	14.99
+BL1-2, 4	Adult2	14.29	14.42
+BL1-2, 4	Adult2	11.29	14.32
+BL1-2, 4	Adult2	14.29	13.61
+BL1-2, 4	Adult2	13.29	12.25
+BL1-2, 4	Adult2	20.29	19.58
+BL1-2, 4	Adult2	13.29	14.11
+BL1-2, 4	Adult2	12.29	12.4
+BL1-2, 4	Adult2	18.29	17.14
+BL1-2, 4	Adult2	18.29	14.42
+BL1-2, 4	Adult2	17.29	15.63
+BL1-2, 4	Adult2	19.29	17.14
+BL1-2, 4	Adult2	14.29	13.53
+BL1-2, 4	Adult2	15.29	15.53
+BL1-2, 4	Adult2	15.29	15.93
+BL1-2, 4	Adult2	18.29	15.93
+BL1-2, 4	Adult2	20.29	18.35
+BL1-2, 4	Adult2	15.29	16.84
+BL1-2, 4	Adult2	24.29	19.56
+BL1-2, 4	Adult2	21.29	18.75
+BL1-2, 4	Adult2	15.29	13.84
+BL1-2, 4	Adult2	19.29	18.04
+BL1-2, 4	Adult2	16.29	17.64
+BL1-2, 4	Adult2	13.29	13.92
+BL1-2, 4	Adult2	18.29	17.49
+BL1-2, 4	Adult2	11.29	14.26
+BL1-2, 4	Adult2	18.29	16.43
+BL1-2, 4	Adult2	9.29	12.25
+BL1-2, 4	Adult2	25.29	18.75
+BL1-2, 4	Adult2	20.29	13.82
+BL1-2, 4	Adult2	14.29	12.71
+BL1-2, 4	Adult2	21.29	15.15
+BL1-2, 4	Adult2	16.29	15.63
+BL1-2, 4	Adult2	14.29	15.13
+BL1-2, 4	Adult2	15.29	15.87
+BL1-2, 4	Adult2	13.29	17.45
+BL1-2, 4	Adult2	24.29	17.14
+BL1-2, 4	Adult2	18.29	14.74
+BL1-2, 4	Adult2	18.29	17.64
+BL1-2, 4	Adult2	14.29	12.71
+BL1-2, 4	Adult2	11.29	16.64
+BL1-2, 4	Adult2	22.29	17.56
+BL1-2, 4	Adult2	20.29	17.64
+BL1-2, 4	Adult2	12.29	17.05
+BL1-2, 4	Adult2	21.29	17.39
+BL1-2, 4	Adult2	16.29	15.03
+BL1-2, 4	Adult2	23.29	21.98
+BL1-2, 4	Adult2	19.29	20.77
+BL1-2, 4	Adult2	14.29	17.76
+BL1-2, 4	Adult2	18.29	19.69
+BL1-2, 4	Adult2	18.29	17.08
+BL1-2, 4	Adult2	18.29	20.34
+BL1-2, 4	Adult2	18.29	19.63
+BL1-2, 4	Adult2	15.29	16.87
+BL1-2, 4	Adult2	15.29	16.03
+BL1-2, 4	Adult2	13.29	13.11
+BL3	Adult1	14	14.71
+BL3	Adult1	26	23.57
+BL3	Adult1	23	22.91
+BL3	Adult1	15	23.03
+BL3	Adult1	17	20.99
+BL3	Adult1	14	14.86
+BL3	Adult1	12	15.15
+BL3	Adult1	25	22.41
+BL3	Adult1	21	19.17
+BL3	Adult1	13	14.06
+BL3	Adult1	17	16.3
+BL3	Adult1	20	20.68
+BL3	Adult1	20	20.41
+BL3	Adult1	25	23.23
+BL3	Adult1	21	24.13
+BL3	Adult1	23	21.04
+BL3	Adult1	18	18.45
+BL3	Adult1	17	19.51
+BL3	Adult1	24	20.82
+BL3	Adult1	18	17.17
+BL3	Adult1	22	22.95
+BL3	Adult1	13	14.18
+BL3	Adult1	18	19.09
+BL3	Adult1	18	18.92
+BL3	Adult1	22	22.41
+BL3	Adult1	17	18.87
+BL3	Adult1	15	19.69
+BL3	Adult1	22	23.13
+BL3	Adult1	19	22.2
+BL3	Adult1	24	24.31
+BL3	Adult1	17	18.8
+BL3	Adult1	21	21.16
+BL3	Adult1	21	21.66
+BL3	Adult1	18	19.5
+BL3	Adult1	15	17.15
+BL3	Adult1	13	18.87
+BL3	Adult1	21	23.53
+BL3	Adult1	11	9.35
+BL3	Adult1	19	22
+BL3	Adult1	9	14.15
+BL3	Adult1	18	21.96
+BL3	Adult1	12	16.12
+BL3	Adult1	16	17.63
+BL3	Adult1	25	23.96
+BL3	Adult1	18	17
+BL3	Adult1	19	21.9
+BL3	Adult1	19	19.01
+BL3	Adult1	17	21.35
+BL3	Adult1	17	19.29
+BL3	Adult1	21	21.78
+BL3	Adult1	15	22.41
+BL3	Adult1	22	18.17
+BL3	Adult1	22	22
+BL3	Adult1	28	26.97
+BL3	Adult2	12	13.13
+BL3	Adult2	12	12.4
+BL3	Adult2	14	15.24
+BL3	Adult2	14	14.28
+BL3	Adult2	16	14.38
+BL3	Adult2	23	18.81
+BL3	Adult2	17	16.03
+BL3	Adult2	21	18.95
+BL3	Adult2	16	16.07
+BL3	Adult2	11	12.8
+BL3	Adult2	13	13.63
+BL3	Adult2	12	10.31
+BL3	Adult2	18	16.34
+BL3	Adult2	13	18.04
+BL3	Adult2	11	14.32
+BL3	Adult2	14	13.94
+BL3	Adult2	13	12.67
+BL3	Children	23	22.26
+BL3	Children	26	22.62
+BL3	Children	21	22.02
+BL3	Children	19	24.39
+BL3	Children	28	27.01
+BL3	Children	25	24.4
+BL3	Children	21	20.84
+BL3	Children	21	21.67
+BL3	Children	20	20.84
+BL3	Children	22	21.67
+BL3	Children	14	18.11
+BL3	Children	31	25.23
+BL3	Children	25	27.6
+BL3	Children	24	24.04
+BL3	Children	28	25.82
+BL3	Children	26	22.61
+BL3	Children	29	23.2
+BL3	Children	24	24.98
+BL3	Children	21	24.99
+BL3	Children	23	24.04
+BL3	Children	24	22.02
+BL3	Children	19	24.04
+BL3	Children	23	23.45
+BL3	Children	21	26.76
+BL3	Children	25	25.82
+BL3	Children	12	15.5
+BL3	Children	30	26.17
+BL3	Children	17	20.24
+BL3	Children	28	23.8
+BL3	Children	23	21.43
+BL3	Children	24	24.4
+BL3	Children	27	23.21
+BL3	Children	26	24.4
+BL3	Children	24	24.04
+BL3	Children	29	23.2
+BL3	Children	20	25.34
+BL3	Children	21	20.24
+BL3	Children	21	27.95
+BL3	Children	28	25.82
+BL3	Children	22	21.43
+BL3	Children	29	28.19
+BL3	Children	25	23.45
+BL3	Children	25	18.46
+BL3	Children	21	24.64
+BL3	Children	24	24.04
+BL3	Children	22	18.46
+BL3	Children	28	26.42
+BL3	Children	22	21.43
+BL3	Children	20	24.64
+BL3	Children	26	24.04
+BL3	Children	29	26.42
+BL3	Children	32	27.6
+BL3	Children	28	25.23
+BL3	Children	20	23.45
+BL3	Children	22	23.21
+BL3	Children	27	23.8
+BL3	Children	26	25.23
+BL3	Children	25	22.62
+BL3	Children	29	24.04
+BL3	Children	22	22.62
+BL3	Children	25	25.23
+BL3	Children	29	25.23
+BL3	Children	29	28.19
+BL3	Children	24	21.43
+BL3	Children	26	25.23
+BL3	Children	20	19.89
+BL3	Children	23	22.62
+BL3	Children	26	23.21
+BL3	Children	25	26.42
+BL3	Children	16	22.02
+BL3	Children	25	23.8
+BL3	Children	29	28.54
+BL3	Children	22	21.78
+BL3	Children	19	19.06
+BL3	Children	24	22.86
+BL3	Children	21	26.17
+BL3	Children	29	25.58
+BL3	Children	23	21.43

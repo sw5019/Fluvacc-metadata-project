@@ -1,0 +1,10 @@
+Variable	Children	Adult1	Adult2
+D0 HAI titer	-0.38	-0.63	-0.04
+Prevacc. status	-0.23	-0.09	-0.84
+Age	-0.13	-0.11	0
+Gender	0	0	0.16
+Month of vacc.	0.05	0.09	0
+BMI	0	0.03	0
+Comorbidities	0	0	0
+Vaccine dose	0	0	0
+Race	0	0	0

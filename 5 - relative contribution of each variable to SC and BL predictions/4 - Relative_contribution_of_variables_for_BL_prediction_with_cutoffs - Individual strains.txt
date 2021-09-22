@@ -1,0 +1,10 @@
+Variable	Children-H1N1	Adult1-H1N1	Adult2-H1N1	Children-H3N2	Adult1-H3N2	Adult2-H3N2	Children-IBV_Yam	Adult1-IBV_Yam	Adult2-IBV_Yam	Children-IBV_Vic	Adult1-IBV_Vic	Adult2-IBV_Vic
+D28 HAI titer	0.98	0.83	0.98	1	0.85	1	0.46	0.9	1	1	1	1
+Prevacc. status	0	0	0	0	0	0	0	0	0	0.26	-0.03	0
+Age	0	0	0	0	0	0	0	0	0	0	0	0
+Gender	0	0	0	0.13	0	-0.17	0	0	0	0	0	0
+Month of vacc.	0	0	0.08	0	0	0	0	0	0	0	0.03	0
+BMI	0	0	0	0	0	0	0	0	0	0	0	0
+Comorbidities	0	0	0	0	0	0	0	0	0	0	0.04	0
+Vaccine dose	0	0	0	0	0	0	0	0	0	0	0	0
+Race	0	0	0	0	0	0	0	0	0	0	0	0

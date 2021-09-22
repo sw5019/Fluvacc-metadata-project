@@ -1,0 +1,10 @@
+Variable	Children	Adult1	Adult2
+D28 HAI titer	0.97	0.78	1
+Prevacc. status	0.08	0	0
+Age	0	0	0
+Gender	0	0	0
+Month of vacc.	0	0.03	0
+BMI	0	0	0
+Comorbidities	0	0	0
+Vaccine dose	0	0	0
+Race	0	0	0
