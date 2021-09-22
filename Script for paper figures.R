@@ -256,12 +256,12 @@ dev.off()
 
 
 ## figures 5 and 6.
-RC_composite_SC<-read.table('3 - Relative_contribution_of_variables_for_SC_prediction_with_cutoffs - Composite.txt',sep='\t',header=T)
-RC_strains_SC<-read.table('4 - Relative_contribution_of_variables_for_SC_prediction_with_cutoffs - Individual strains.txt',sep='\t',header=T)
+RC_composite_SC<-read.table('1 - Relative_contribution_of_variables_for_SC_prediction_with_cutoffs - Composite.txt',sep='\t',header=T)
+RC_strains_SC<-read.table('2 - Relative_contribution_of_variables_for_SC_prediction_with_cutoffs - Individual strains.txt',sep='\t',header=T)
 rownames(RC_composite_SC)<-RC_composite_SC[,1]
 rownames(RC_strains_SC)<-RC_strains_SC[,1]
-RC_composite_BL<-read.table('5 - Relative_contribution_of_variables_for_BL_prediction_with_cutoffs - Composite.txt',sep='\t',header=T)
-RC_strains_BL<-read.table('6 - Relative_contribution_of_variables_for_BL_prediction_with_cutoffs - Individual strains.txt',sep='\t',header=T)
+RC_composite_BL<-read.table('3 - Relative_contribution_of_variables_for_BL_prediction_with_cutoffs - Composite.txt',sep='\t',header=T)
+RC_strains_BL<-read.table('4 - Relative_contribution_of_variables_for_BL_prediction_with_cutoffs - Individual strains.txt',sep='\t',header=T)
 rownames(RC_composite_BL)<-RC_composite_BL[,1]
 rownames(RC_strains_BL)<-RC_strains_BL[,1]
 
@@ -370,8 +370,15 @@ p5<-ggplot(metadata_adult1_cols,aes(x=as.factor(Month_vaccinated),y=coef_composi
   theme_classic()
 print(p5,vp=vplayout(2,2))
 
-BL_df<-as.data.frame(fread('Baseline_prediction_data_frame.txt',header=T))
+BL_df<-as.data.frame(fread('2 - Baseline_prediction_data_frame_672_entries.txt',header=T))
 BL_df_adult1<-BL_df[BL_df$Age>=log2(18) & BL_df$Age<log2(65),]
+BL_df_adult1$Month_vaccinated[BL_df_adult1$Month_vaccinated=='Sep.']<-0
+BL_df_adult1$Month_vaccinated[BL_df_adult1$Month_vaccinated=='Oct.']<-1
+BL_df_adult1$Month_vaccinated[BL_df_adult1$Month_vaccinated=='Nov.']<-2
+BL_df_adult1$Month_vaccinated[BL_df_adult1$Month_vaccinated=='Dec.']<-3
+BL_df_adult1$Month_vaccinated[BL_df_adult1$Month_vaccinated=='Jan.']<-4
+BL_df_adult1$Month_vaccinated[BL_df_adult1$Month_vaccinated=='Feb.']<-5
+BL_df_adult1$Month_vaccinated<-as.numeric(BL_df_adult1$Month_vaccinated)
 inter_composite<-12.7
 coef_composite_age<--1.65
 coef_composite_month<-0.42
